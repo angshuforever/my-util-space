@@ -3,7 +3,7 @@
 ## Initial Setup
 
 ### 1. Creating and Activating Environment
-Open JupyterLab terminal and run:
+Open JupyterLab terminal and run (it can be done from command line as well, if paths are set properly):
 ```bash
 # Create new environment
 conda create -n <envname>
